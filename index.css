@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  color: white;
+}
+
+a {
+  display: block;
+  text-align: center;
+  margin-top: 3rem;
+  color: white;
+  cursor: pointer;
+}
+a:hover {
+  color: #ff69b4;
+}
+body {
+  background-color: #36454f;
+}
