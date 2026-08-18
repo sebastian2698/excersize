@@ -9,6 +9,7 @@ button.addEventListener("click", () => {
 
   if (numberguess === rightnumber) {
     result.textContent = "Du gættede rigtigt, du har vundet!";
+    confetti();
   } else {
     result.textContent = "Desværre, det er ikke korret!";
   }
